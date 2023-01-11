@@ -1,0 +1,58 @@
+body
+{
+    background: radial-gradient( rgb(17, 235, 235),rgb(17, 235, 235), rgb(6, 149, 149));
+}
+.google
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px; 
+    background-color: white;
+}
+.heading
+{
+    color: azure;
+    padding-top: 20px;
+    background-color: rgba(2, 92, 92, 0.851);
+    height: 80px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:8px 10px 10px white;
+}
+.heading b
+{
+    color: rgb(240, 84, 178);
+}
+.compare
+{
+    background-color: royalblue;
+    width: 20%;
+    color: aliceblue;
+    border-radius: 40px ;
+}
+
+.compare:hover
+{
+    background-color: aliceblue;
+    color: black;
+} 
+.test_image_and_result
+{
+    background-color: rgba(240, 248, 255, 0.742);
+    width: 80%;
+    height: 50%;
+    border-radius: 15px;
+    margin-left: 138px;
+} 
+
+.copy_right_footer
+  {
+    font-size: 20px;
+    bottom: 0;
+    background-color: rgba(4, 146, 146, 0.873);
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    position: fixed;
+  }
+ 
